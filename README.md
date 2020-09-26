@@ -1,16 +1,20 @@
-# xylophone2
+# Xylophone
+## Flutter App 
+|
+**Training project**
+|
+|
 
-A new Flutter project.
+ **Responsiv** 
 
-## Getting Started
+- Small phone 👍 
 
-This project is a starting point for a Flutter application.
+- Medium phone  👍
 
-A few resources to get you started if this is your first Flutter project:
+- Large phone 👍
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Small tablet 👍
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Medium tablet 👍
+
+<img src="https://user-images.githubusercontent.com/63757519/94346793-3bb34780-002f-11eb-8a8c-9a4d33f8482a.png" width = "400">
