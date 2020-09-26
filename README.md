@@ -1,9 +1,7 @@
 # Xylophone
 ## Flutter App 
-|
-**Training project**
-|
-|
+
+### Training project
 
  **Responsiv** 
 
